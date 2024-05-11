@@ -1,288 +1,288 @@
 [[Ninja]]
 arch = "aarch64"
-git-tree-sha1 = "bd22dd5450aec17847f0d4ea736da5973f620455"
+git-tree-sha1 = "108acd2afa3a0f34807604fbe4413de237b24adf"
 os = "macos"
 
     [[Ninja.download]]
-    sha256 = "cd68b4e689f6034a360eaab81ddc3bc0ce239ecf7d57c92758bce90b3945dd6c"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "7a84abf2e6068671edd1ab584ea48603a8d476d92f167291ea3d8fa2ada6eb61"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.aarch64-apple-darwin.tar.gz"
 [[Ninja]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "84952cdcdb638eac2e51ddd731dc7f0a5e9fe290"
+git-tree-sha1 = "1cf330c1f23c9f385a57b784dc86716ee2a6b2b8"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "a67f97c30360100933100c8aec98af422e77b75ae8599625db19d4ed8506f782"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "840c73a9a88ec182937463129b5e489c88f79e9763bc6cd766659b7a9c47540c"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Ninja]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "57ab01127a4a57965d1092be68c08c478831f7d5"
+git-tree-sha1 = "655906a0a5eefbf70612e20a108d6de08980aefd"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "d5e3da812121a02618760da63d218c1a48b0bdb51b1938e036715cb2ea371162"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8ca3316460b67086ce7f808e08d3d782a1cca8b13ac7fe2cd81a052ac1a4b962"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Ninja]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3d81b05f3d654d794520d81ad8eee4729551f45"
+git-tree-sha1 = "6be92540dfe6d8b22f067a291702665263aad8e9"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "76cc6e2ac095c0e4c95c38e10ec6a77bf264c4daacee963b674eba13d2560e23"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "c002951441e92d65d660a9c1779507b8b306c84132e4cf3ad234cc0d5052e69a"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Ninja]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aeffa2c83ee378b921391d08a43e58f24724807d"
+git-tree-sha1 = "022addbb19264992647cdb740ece6b2dbdac05d8"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "443d02c742d9d6a2d850d46869f7b8b8387b453601ccb18c4b53f156d76c7fc7"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "eebcbf38e21569457ee4d3aabb7b2b9f521adefc795e75bf08f08b88f4b3e6d9"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Ninja]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d417c18c89344020d6cb9196162f14bcab8e6b7"
+git-tree-sha1 = "fa201c2878d4fc2a406adcf9c4d3e1f4d147e43e"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "f955c8e8171455f217c3746c66f7975a4e34ea4a6f94f9fb6d326817810f501a"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "b7c019520d880196a916b7320752de3e739545f1270c16e2270d8c771dbb6066"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Ninja]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6a76ca2c6b19b72e088d0d6f30488daff4551a3b"
+git-tree-sha1 = "d2feabe85364471f60c36d488cf89f1c5af901c1"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "91a10d1952bdac7d4f2d3989599ac25fcfa87b9c7cc7954a6efadddef49a6b20"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "33e36eee2c84fb076b20bd70efdfd148f0db3d39fe7a8ddc81b333d3dc75e066"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Ninja]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ccfe4f2409b0d32388d0cc5e8e84c8998934dabe"
+git-tree-sha1 = "af7ba4338a300cda7d3dc37d3033c1088ca3e7d7"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "2940ab88d4db4f69ec3d20f670a3fa123adb8e96709f223b8c84a5e55e62b7b7"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "37d9f59dfcf2a89e8ff8d3232d0730d8393c97a509b5adec468df6073ca8ffb6"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Ninja]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eb3f284bbc665245e79e8f4bcd1be8fa5dc6a67e"
+git-tree-sha1 = "8edf3b64b116021b425d4cb4f8b4b75a056b9927"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "c7a9f910569812fb835ad4873290429580631d26d971c82aafbafd0c7e9ead2f"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "555ded43608ba174958afff97494d33d79fe3514b2b46a4012cae45380c6aa94"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Ninja]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "63a5ef4eb6a20383bd230d6bccf2e368ad6a3592"
+git-tree-sha1 = "43fcc877b604d6a00f5ab6033fa018c9c4c64032"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "3bd1dfdc99b5054acc408cb82fb46781278865047deebb32dc1375b43eab5b39"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "08f4453ed28820d3e89f98d2ecbea12c22a2666c857c00ac1c3968682a0c1288"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Ninja]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "17678bc6135147c1ee8ca94a020ab39b7cccde3b"
+git-tree-sha1 = "a769016f56b26611366fe83ed46cd9843a400da2"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "7f4ac361cd7e32a93eb0430b98a624090c42b1cd1ad511dc8385f0ef282ef328"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "8da91502147404b4c48a4a974f649abacf8ca25abf2e41c6f592b4852d03a4ad"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Ninja]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6adcfc3c1f500db106fbc57709521171ce96b9ab"
+git-tree-sha1 = "d1e536ede5e2849c00de8877ace9024e63f4cdf7"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "564ce04eefa02152684d2814302315557e60ab9a09c2e6ed0a2dac8bf9f2be7e"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "6569468dd910ff53f92e22c57fb76ebdc125a155f42c305dc850c872ae7f582e"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Ninja]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "43a9e4e806c61741e5ddd7d99003296bcb092d8f"
+git-tree-sha1 = "4ac06c3d7fbb1478f8092f32642b92d47ab019c9"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "b97d75945b737377928a8f0b986401dad47e6e1047e6b400cb26c5134fccb306"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "eff8d8f4a48add9c7468a415af81e604adf0777a1a759c352916eab870866234"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a5141f9d14eff8129e17610decfc71f6644d2bec"
+git-tree-sha1 = "e4883c258f992cba41f1d4732870646509d49eb3"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "d389907ba2e9ec772e50c9135fa0ea1923b4fd6f3c6593e32befa59901ba85be"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "9e0f471b51e4dfb54326fe71ddf3bbd4184678364724f21645becea163ad3fd6"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-linux-gnu-cxx03.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0b1d2b666c1949901f0739a91422eacf3836dfc1"
+git-tree-sha1 = "d039109e9a5cacceceaa0776b19ba64dab160dc1"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "53515e485b9bb4ee52047b42533e53a04ab870013dc811b6cf1f602a6a01b642"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "756569ee641ab9066af83e4ac36266d672ceeffcdead6efbff37bf499559653b"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-linux-gnu-cxx11.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "071e1c8dcd92d8e4c755cedf12b08a253c0e107c"
+git-tree-sha1 = "c87f10d8e69a4a9aa4d94f935a7090e933e2d848"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "1147ac33213c81c225fbb0926c8b1e5b7d06c2476897c5a3dd49763bc4a622c6"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "9eda95ba3a217ea190dfe9d557c4db5053fb76e1b8ca5368d0af53d32e259083"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-linux-musl-cxx03.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca5d5d1471d7b9d85d372c9f0f3a494996d4c828"
+git-tree-sha1 = "a1d568d6535bee8228a9769add55bb88313422bb"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "4d7b71d06a6e6af6b14d30630edaf4dbb1486d0c83c3c34f6c31479d6b39bcce"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "6fc95151505bbe18536b2034f0cd053edadfcbf5f3010e02806b168454fe3953"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-linux-musl-cxx11.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d6a476720aef74d97d4c97380c84e85ae585aed"
+git-tree-sha1 = "34cea790702a4591aaa68596f9206dae032fb949"
 os = "windows"
 
     [[Ninja.download]]
-    sha256 = "d31a3ca33ce2e8aed4f19faf537aaf89c4131e581fc2f78ae8404509ed17b3ea"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "d0b374a87ec5ced8d2cd6e669b01d970453b8bc09f0738c210847e184d6a6c42"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Ninja]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29e80e18544e386c78cbad9e3cfbcb5b50efad85"
+git-tree-sha1 = "eb7c822ced5c0fbfd2f71e2678e1a2a586f4d74d"
 os = "windows"
 
     [[Ninja.download]]
-    sha256 = "0a61c9f598528ea57fd07ae898fa2f1db795421108034ae9e1f1e1590cb41b0a"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b62467eb261761364f3ac90dcad5a7bac0a6e94d9ae43fe9b51d98860ee44563"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Ninja]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e57e1533a08057594111beff5bd0f980f862aadf"
+git-tree-sha1 = "7f9e069dbc7a72bce60caa124ab26f57cf2d69fe"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "6a70894f11d6a66b2d4919a34e386f2394698d40d9087c5ca2a61ca58fcfb3e4"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "789aa0ae12b39419d5e4cf9cd0c6d0bb27abee23b9be4054e3a162e992b1f7a5"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Ninja]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba37b1d46856a403db6e2ad2f58d6beab1f712af"
+git-tree-sha1 = "a6825651441c9ec656c5df63969f73c3e39da2ce"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "702a258fd0c87df15b0b32739c36d17e26c6d81f33d376c0277f5492117851d8"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "8671b53b3453dd6be22e560726eb845c8a90e7edc4b99e0d285a92e5d424f67f"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Ninja]]
 arch = "x86_64"
-git-tree-sha1 = "25edbda4767e4a250b587a7f0febab78ab676510"
+git-tree-sha1 = "7cb2c2cfc7287dba4e733862932c0e242bbd2814"
 os = "macos"
 
     [[Ninja.download]]
-    sha256 = "3f032f11754317519bd8264b7b1cbbda22fd03651fb8a899f0d9f836d931f76f"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "5da1ac73ed028fd2eff5d6ae6cc0ea8b3563971c4a2565f322e72c914f33cde1"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-apple-darwin.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d5f49947076489de75af446a0b07264c3564d12"
+git-tree-sha1 = "0368f4411a3499154980ae51593fd4721b140217"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "e0c832dc363b6497ecfd3ed3604ed11564c3dd6c1cc122d7abb5463fe5141cc9"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "2fd872968374df3c12051c3c7a613c31dda1cbcdb6fcf9c959fa7156a5c885a2"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "74ab1140130bacfe76fcfdc4998bba73d0b6bf71"
+git-tree-sha1 = "7e62c00e1f15f21da3a56196bac84e23e6d629c3"
 libc = "glibc"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "dc18e577d8af3c02deffa1f9b1cc87beeedab1e1bc849e4f2be14860565fa05a"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "dc7e205120e2d5d684e0310afde641f0f242d765732e760387444de1f7db1fc9"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38c9dd0563a43e6395adb7502e1185e687df7442"
+git-tree-sha1 = "792101cd8678a9a28cb035c9f6c0b474218f87aa"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "248cccb92b9e05845fd08924245b2a3f093f113c2162e13084aa0cb0c5294201"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "c118d64c779ea61658f9758eb87f4f5998a72ddd74bbaedf004e597096b6c1a4"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "320742d1500f55a94627061b6b307fd088995e21"
+git-tree-sha1 = "bf6953682ae1ec0a53c905beb4448cb4898f74e4"
 libc = "musl"
 os = "linux"
 
     [[Ninja.download]]
-    sha256 = "3b06c7d4a568f77a6ee74b70f56ce29fc24228b6ec9d06caa2a8791f2d75ac85"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "62f136c11da6a5a9bd5329845f0bd21c026db9c27d77477b9a9d29a92ea0bec8"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Ninja]]
 arch = "x86_64"
-git-tree-sha1 = "6df0ef7e0a5f7baee60dc8c9dde88b027c868bca"
+git-tree-sha1 = "e62e2163f5534278e8f7fdc65aa8000e1c3fde1a"
 os = "freebsd"
 
     [[Ninja.download]]
-    sha256 = "886b852760cbbd97edebb478da02c47c37c468ac8556347ee1a162c16eafe59c"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2224a324fe4f455b0d0545f91a6555d87895d42e3e20c87ae36947c5899e73e5"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-unknown-freebsd.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a6842d0584a3e640c64644cd162f5f842b1701ab"
+git-tree-sha1 = "7cc610b6ec5ed3013d2ffd58ea9f03436cce5f23"
 os = "windows"
 
     [[Ninja.download]]
-    sha256 = "375406748a54a7880d85c6fdbc19224cd074bed935a2c6e13c22eeaeb1726816"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "5ebcdd49f2022e58d71a8e555eb871aeb585450e9d51163e6aad1a7b8052acc4"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Ninja]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "194e5f105bd17649cfac206a1e2262273195e5bd"
+git-tree-sha1 = "cc974f23fc5cd28fe1f735a60fa7604901f9f568"
 os = "windows"
 
     [[Ninja.download]]
-    sha256 = "ce83306def663d26ea1905d93d5b54230f066351737ac64011e0d4f3ab432fe6"
-    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.0+0/Ninja.v1.12.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "f47a1ff3b081fad0f2d58998158b48c3dd63356efdabccd5d0ce89ccc3b70ccf"
+    url = "https://github.com/JuliaBinaryWrappers/Ninja_jll.jl/releases/download/Ninja-v1.12.1+0/Ninja.v1.12.1.x86_64-w64-mingw32-cxx11.tar.gz"
