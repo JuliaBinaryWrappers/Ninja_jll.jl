@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Ninja")
-JLLWrappers.@generate_main_file("Ninja", UUID("76642167-d241-5cee-8c94-7a494e8cb7b7"))
+JLLWrappers.@generate_main_file("Ninja", Base.UUID("76642167-d241-5cee-8c94-7a494e8cb7b7"))
 end  # module Ninja_jll
